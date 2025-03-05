@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Eclipse SWT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Eclipse SWT" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../Eclipse SWT" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Eclipse SWT" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Eclipse SWT" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Eclipse SWT" recursive="false" type="SOURCES" />
+  </library>
+</component>
